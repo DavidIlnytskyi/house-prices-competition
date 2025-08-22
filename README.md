@@ -1,5 +1,3 @@
-# House Prices Competition
-
 # Kaggle - Housing Prices Competition for Kaggle Learn Users
 
 This repository contains my practice from the [Kaggle competition](https://www.kaggle.com/competitions/home-data-for-ml-course/overview).  
